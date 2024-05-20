@@ -10,7 +10,7 @@
 <h2 id="connection">🔍 Connection</h2>
 
 ![enter image description here](https://s18.picofile.com/file/8439778284/ezgif_com_gif_maker_9_.gif)
-<p>You Can Connect With USB or IP Address But Just Use One if Use USB Dont Fill IP and Port And if Use IP Dont Fill USB if Fill Both input USB Mode in Priority<p>
+<p>
 
 <h2 id="shell">💎 Shell</h2>
 <p><img src="https://s18.picofile.com/file/8439684268/ezgif_com_gif_maker_4_.gif" alt="shell tab demo"><br></p>
