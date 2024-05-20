@@ -17,7 +17,6 @@
 <p>
 <h2 id="application">⚙️ Application</h2>
 <p><img src="https://s18.picofile.com/file/8439684126/ezgif_com_gif_maker_2_.gif" alt="enter image description here"></p>
-<p>Live Android Application Manager</p>
 <p>
 <h2 id="screen">📟 Screen</h2>
 <p><img src="https://s18.picofile.com/file/8439684034/ezgif_com_gif_maker_1_.gif" alt="enter image description here"></p>
