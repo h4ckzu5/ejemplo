@@ -24,48 +24,13 @@
 <h2 id="phone">📱 Phone</h2>
 
 ![enter image description here](https://s19.picofile.com/file/8439730968/clip.png)
-<li>Restart Device</li>
-<li>ShutDown Device</li>
-<li>Turn Screen On and Off</li>
-<li>Brightness Up</li>
-<li>Brightness Down</li>
-<li>Chenge WMsize</li>
-<li>Reset WMsize</li>
-<li>Chenge Density</li>
-<li>Reset Density</li>
-<li>Volume Up</li>
-<li>Volume  Down</li>
-<li>Chenge BatteryLevel</li>
-<li>List Contacts Have issue</li>
-<li>Delete All Contact</li>
-<li>Add,Edit,Remove Contact  Have issue</li>
-<li>Get Clipboard Need clipper.apk</li>
-<li>Set  Clipboard Need clipper.apk</li>
+<p>
 <h2 id="files">📂  Files</h2>
 <p><img src="https://s18.picofile.com/file/8439683234/ezgif_com_gif_maker.gif" alt="enter image description here"></p>
-<p>Live Android File Manager With Live Search And Back Options</p>
-<ul>
-<li>CopyAll</li>
-<li>MoveAll</li>
-<li>DeleteAll</li>
-<li>Information</li>
-<li>Rename</li>
-<li>Delete</li>
-<li>Download</li>
-<li>Create File Or Folder</li>
-<li>Upload</li>
-<li>SuperUplaod</li>
-</ul>
+<p>
 <h2 id="network">📡 Newtork</h2>
 <p><img src="https://s18.picofile.com/file/8439785300/net.png" alt="enter image description here"></p>
-
-<ul>
-<li>Netstat</li>
-<li>DumpWifi</li>
-<li>ifconfig</li>
-<li>IP</li>
-
-</ul>
+<p>
 <h2 id="fun">😀 FUN</h2>
 <p><img src="https://s18.picofile.com/file/8439832684/FUN.png" alt="enter image description here"></p>
 
