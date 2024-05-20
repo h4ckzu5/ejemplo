@@ -3,69 +3,9 @@
 ﻿
 <h3 align="center"><img src="https://s19.picofile.com/file/8439685950/favicon.png" alt="logo" height="250px"></h3>
 <p align="center">
-    <b>ADB WEBKIT</b><br>
+    <b>h4ckzu5 ADB</b><br>
     </p>
-<hr>
-<p align="center">
-  <b>Access ADB On Browser  With Awesome UI</b>
-    </p>
-<p align="center">
-  <a href="https://php.net">
-    <img src="https://img.shields.io/badge/php-8.0.7-green" alt="php">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/platform-Windows-red">
-  </a>
-   <img src="https://img.shields.io/badge/adb-1.0.35-blue" 
-   alt="adb">
-   <a href="https://www.codefactor.io/repository/github/jxroot/adbwebkit">  <img src="https://www.codefactor.io/repository/github/jxroot/adbwebkit/badge" alt="CodeFactor" /> </a>
-   
 
-  
-</p>
-<p><img src="https://s19.picofile.com/file/8439686492/Screenshot_2021_08_22_025151.png" alt="enter image description here"></p>
-<h2 id="table-of-contents">📜 Table of Contents</h2>
-<ul>
-<li><a href="#connection">Connection</a></li>
-<li><a href="#dependency">Dependency </a></li>
-<li><a href="#installation-and-usage">Installation And Usage</a></li>
-<li><a href="#installation-termux">Install On Termux</a></li>
-<li><a href="#operating-systems-tested">Operating Systems Tested</a></li>
-<li><a href="#youtube-tutorials">YouTube Tutorials</a> Recommended For Tips</li>
-<li><a href="#contact">Contact</a></li>
-<li><a href="#next-update">Next Update</a></li>
-<li><a href="#tabs">Tabs</a>
-<ul>
-<li><a href="#shell">Shell</a></li>
-<li><a href="#application">Application</a></li>
-<li><a href="#screen">Screen</a></li>
-<li><a href="#phone">Phone</a></li>
-<li><a href="#files">Files</a></li>
-<li><a href="#network">Network</a></li>
-<li><a href="#fun">Fun</a></li>
-<li><a href="#keyboard">KeyBoard</a></li>
-<li><a href="#payload">Payload</a></li>
-<li><a href="#root">Root</a></li>
-<li><a href="#info">Info</a></li>
-<li><a href="#gallery">Gallery</a></li>
-</ul>
-</li>
-</ul>
-<h2>👊 Update Log</h2>
-<ul>
-<li>add live click  option in screen tab  </li>
-<p>use with right mouse click</p>
-
-![enter image description here](https://fizoofood.com/realclick.gif)
-
-<li>add     get  position item in screen  </li>
-<li>add     click command  in payload  tab</li>
-<p>use with left mouse click</p>
-
-![enter image description here](https://fizoofood.com/realpos.gif)
-<p>use this items togther for testing and automation </p>
-
-</ul>
 
 <h2 id="connection">🔍 Connection</h2>
 
