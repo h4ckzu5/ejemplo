@@ -18,22 +18,10 @@
 <h2 id="application">⚙️ Application</h2>
 <p><img src="https://s18.picofile.com/file/8439684126/ezgif_com_gif_maker_2_.gif" alt="enter image description here"></p>
 <p>Live Android Application Manager</p>
-<ul>
-<li>Install Apk With Some Options Like GrantPermission And …</li>
-<li>Revoke And Grant Apk Permission</li>
-<li>Uninstall Apk</li>
-<li>Run Apk</li>
-<li>Clear Cache</li>
-<li>Save Apk</li>
-<li>Stop Apk</li>
-</ul>
+<p>
 <h2 id="screen">📟 Screen</h2>
 <p><img src="https://s18.picofile.com/file/8439684034/ezgif_com_gif_maker_1_.gif" alt="enter image description here"></p>
-<ul>
-<li>Take Screen Shot</li>
-<li>Record Screen</li>
-
-</ul>
+<p>
 <h2 id="phone">📱 Phone</h2>
 
 ![enter image description here](https://s19.picofile.com/file/8439730968/clip.png)
