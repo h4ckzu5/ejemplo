@@ -14,9 +14,7 @@
 
 <h2 id="shell">💎 Shell</h2>
 <p><img src="https://s18.picofile.com/file/8439684268/ezgif_com_gif_maker_4_.gif" alt="shell tab demo"><br></p>
-<ul>
-<li>Shell Access</li>
-</ul>
+<p>
 <h2 id="application">⚙️ Application</h2>
 <p><img src="https://s18.picofile.com/file/8439684126/ezgif_com_gif_maker_2_.gif" alt="enter image description here"></p>
 <p>Live Android Application Manager</p>
